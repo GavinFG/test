@@ -6,4 +6,5 @@ public class first{
 	System.out.print("fifth do");
 	System.out.print("sixth do");
 	System.out.print("seventh do");
+	Creating a new branch is quick AND simple
 }

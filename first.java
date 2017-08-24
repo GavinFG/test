@@ -5,4 +5,5 @@ public class first{
 	System.out.print("fourth do");
 	System.out.print("fifth do");
 	System.out.print("sixth do");
+	System.out.print("seventh do");
 }
